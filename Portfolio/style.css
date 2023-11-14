@@ -72,7 +72,7 @@ nav ul li a:hover::after{
     border-style:outset;
     border-width: 10px;
     border-color: #fff;
-    box-shadow: 0 0 20px 20px rgba(234, 0, 255, 0.7); 
+    /* box-shadow: 0 0 20px 20px rgba(234, 0, 255, 0.7);  */
     
 }
 .header-text p{
@@ -374,7 +374,7 @@ form .btn2{
 
 
 /*-----CSS For Small Screens-----*/
-/*----nav .fa-solid{
+/* nav .fa-solid{
     display: none;
 } 
 @media only screen and (max-width:600px){
@@ -435,7 +435,7 @@ nav ul .fa-solid{
 }
 .copy-right{
     font-size: 14px;
-}
-<i class="fa-solid fa-xmark" onclick="closemenu()"></i>
+} */
+/* <i class="fa-solid fa-xmark" onclick="closemenu()"></i>
                 </ul>
-                <i class="fa-solid fa-bars" onclick="openmenu()"></i>
+                <i class="fa-solid fa-bars" onclick="openmenu()"></i> */
